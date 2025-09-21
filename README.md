@@ -123,7 +123,3 @@ npm run build
 - Multi-language support
 - Integration with health tracking apps
 - Telemedicine appointment booking
-
----
-
-**Built for healthcare innovation hackathons** 🏥✨
