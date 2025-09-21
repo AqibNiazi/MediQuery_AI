@@ -1,6 +1,6 @@
 # MediQuery - AI-Powered Symptom Checker & Report Generator
 
-A hackathon-ready MVP that helps patients input symptoms and get clear, patient-friendly explanations with downloadable doctor reports.
+MediQuery is a MVP that helps patients input symptoms and get clear, patient-friendly explanations with downloadable doctor reports.
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ A hackathon-ready MVP that helps patients input symptoms and get clear, patient-
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 13, React, TypeScript, Tailwind CSS, shadcn/ui
+- **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui
 - **Backend**: Next.js API routes
 - **AI Integration**: Groq API with Llama models
 - **PDF Generation**: jsPDF
